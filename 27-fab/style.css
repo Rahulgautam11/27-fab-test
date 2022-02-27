@@ -1,0 +1,90 @@
+body {
+  margin: 0px;
+  background-color: rgb(165, 224, 165);
+}
+#nav {
+  padding: 10px;
+  background-color: rgb(17, 2, 31);
+}
+a {
+  text-decoration: none;
+  margin: 10px 10px;
+  color: antiquewhite;
+}
+article {
+  width: 77vw;
+  margin-left: 10vw;
+  margin-top: 70px;
+  border: 2px solid black;
+  margin-bottom: 70px;
+}
+#body {
+  background-color: coral;
+}
+.me {
+  text-align: center;
+}
+.img {
+  margin: 20px;
+  border-radius: 50%;
+  width: 30%;
+  height: 30%;
+}
+.image {
+  text-align: center;
+}
+footer {
+  background-color: gray;
+}
+.email {
+  padding: 10px;
+  color: antiquewhite;
+  background-color: black;
+  border: none;
+  width: 30vw;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
+.text {
+  padding: 10px;
+  border: none;
+  width: 30vw;
+  height: 10vh;
+  color: antiquewhite;
+  background-color: black;
+}
+.send {
+  padding: 10px;
+  text-align: left;
+  border: none;
+  background-color: blue;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10%;
+}
+.contactus {
+  color: rgb(226, 13, 13);
+}
+.serch {
+  margin-left: 50%;
+  padding: 8px;
+  width: 20vw;
+}
+#bodyh {
+  background-color: aqua;
+}
+.hobbies {
+  text-align: center;
+}
+details {
+  padding: 20px;
+}
+#bodye {
+  background-color: burlywood;
+}
+h1 {
+  text-align: center;
+}
